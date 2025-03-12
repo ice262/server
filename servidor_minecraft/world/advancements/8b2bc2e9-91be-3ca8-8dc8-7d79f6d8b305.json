@@ -299,6 +299,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_small_prairie_house": {
+    "criteria": {
+      "location0": "2025-03-12 15:04:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-03-12 13:05:03 +0000"
@@ -1239,10 +1245,15 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-03-12 12:38:15 +0000",
+      "minecraft:mountains": "2025-03-12 15:07:37 +0000",
+      "minecraft:taiga": "2025-03-12 15:09:42 +0000",
       "minecraft:desert_hills": "2025-03-12 12:51:30 +0000",
+      "minecraft:taiga_hills": "2025-03-12 15:11:09 +0000",
       "minecraft:desert": "2025-03-12 12:40:10 +0000",
+      "minecraft:birch_forest": "2025-03-12 15:09:04 +0000",
       "minecraft:beach": "2025-03-12 12:42:55 +0000",
       "minecraft:river": "2025-03-12 12:52:32 +0000",
+      "minecraft:birch_forest_hills": "2025-03-12 15:08:58 +0000",
       "minecraft:savanna": "2025-03-12 12:39:15 +0000",
       "minecraft:plains": "2025-03-12 12:37:28 +0000"
     },

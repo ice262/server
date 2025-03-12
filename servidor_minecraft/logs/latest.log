@@ -195,3 +195,7 @@ java.lang.NullPointerException: null
 [12Mar2025 15:00:33.454] [Server thread/INFO] [Waila/]: Syncing config to Ronditoo (8b2bc2e9-91be-3ca8-8dc8-7d79f6d8b305)
 [12Mar2025 15:05:07.005] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/17273, l='ServerLevel[world]', x=-1682.49, y=105.00, z=2013.51] died, message: 'Villager suffocated in a wall'
 [12Mar2025 15:05:07.006] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/17274, l='ServerLevel[world]', x=-1682.51, y=105.00, z=2011.51] died, message: 'Villager suffocated in a wall'
+[12Mar2025 15:08:39.926] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[12Mar2025 15:08:39.929] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[12Mar2025 15:16:35.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[12Mar2025 15:16:35.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 11<--[HERE]

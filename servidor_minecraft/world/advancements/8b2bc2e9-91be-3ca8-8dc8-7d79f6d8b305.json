@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-03-12 14:06:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_glazed_terracotta": {
     "criteria": {
       "has_gray_terracotta": "2025-03-12 12:58:13 +0000"
@@ -284,6 +290,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-03-12 13:05:03 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/tools/modifiers/wither_bone_conversion": {
+    "criteria": {
+      "has_bone": "2025-03-12 14:07:12 +0000"
     },
     "done": true
   },
@@ -553,6 +565,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2025-03-12 14:01:17 +0000",
       "opened_chest": "2025-03-12 12:50:12 +0000"
     },
     "done": false
@@ -584,8 +597,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-03-12 13:04:24 +0000",
+      "minecraft:hoglin": "2025-03-12 14:10:30 +0000",
       "minecraft:piglin_brute": "2025-03-12 12:55:59 +0000",
       "minecraft:spider": "2025-03-12 13:59:16 +0000",
+      "minecraft:wither_skeleton": "2025-03-12 14:06:24 +0000",
       "minecraft:zombie": "2025-03-12 12:38:37 +0000"
     },
     "done": false
@@ -917,6 +932,12 @@
   "minecraft:recipes/travelersbackpack/wither_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-03-12 13:01:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-12 14:05:32 +0000"
     },
     "done": true
   },
@@ -1640,6 +1661,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-03-12 14:06:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-03-12 13:08:37 +0000"
@@ -1976,6 +2003,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-12 14:05:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-03-12 12:50:39 +0000"
@@ -2015,6 +2048,12 @@
   "minecraft:recipes/travelersbackpack/standard_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2025-03-12 13:51:40 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-03-12 14:05:19 +0000"
     },
     "done": true
   },
@@ -2063,6 +2102,12 @@
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2025-03-12 12:43:45 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-03-12 14:01:17 +0000"
     },
     "done": true
   },
@@ -2171,6 +2216,12 @@
   "minecraft:recipes/travelersbackpack/bookshelf_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-03-12 13:01:28 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/throwball/glow_ball": {
+    "criteria": {
+      "has_item": "2025-03-12 14:05:32 +0000"
     },
     "done": true
   },
@@ -2408,6 +2459,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-03-12 14:06:04 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/upgrades/iron_to_gold_chest_upgrade": {
     "criteria": {
       "has_iron_ingot": "2025-03-12 13:05:03 +0000"
@@ -2489,6 +2546,12 @@
   "tombstone:adventure/find_easter_egg": {
     "criteria": {
       "coded_trigger": "2025-03-12 12:37:28 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/throwball/efln_ball": {
+    "criteria": {
+      "has_item": "2025-03-12 14:05:32 +0000"
     },
     "done": true
   },

@@ -209,3 +209,52 @@ java.lang.NullPointerException: null
 [12Mar2025 14:02:38.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo walked into fire whilst fighting Zombie
 [12Mar2025 14:02:38.629] [Server thread/INFO] [tombstone/]: The player Ronditoo has successfully been saved
 [12Mar2025 14:04:16.575] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Ronditoo moved too quickly! -512.0878438328399,61.0,-89.66468169514212
+[12Mar2025 14:05:19.352] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo has made the advancement [Close Quarters]
+[12Mar2025 14:06:04.323] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo has made the advancement [Where Is The Stone Pen?]
+[12Mar2025 14:06:04.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo has made the advancement [Who is Cutting Onions?]
+[12Mar2025 14:06:27.776] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo withered away whilst fighting Forge Sentry
+[12Mar2025 14:06:27.778] [Server thread/INFO] [tombstone/]: The player Ronditoo has successfully been saved
+[12Mar2025 14:06:47.924] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Ronditoo was kicked for floating too long!
+[12Mar2025 14:06:47.974] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Ronditoo lost connection: Flying is not enabled on this server
+[12Mar2025 14:06:47.974] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo left the game
+[12Mar2025 14:06:55.225] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@60227026
+[12Mar2025 14:06:55.241] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Ronditoo[/127.216.194.134:33121] logged in with entity id 6239 at (70.07720440707388, 23.749380924572357, 329.22517454142695)
+[12Mar2025 14:06:55.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo joined the game
+[12Mar2025 14:06:55.252] [Server thread/INFO] [Waila/]: Syncing config to Ronditoo (8b2bc2e9-91be-3ca8-8dc8-7d79f6d8b305)
+[12Mar2025 14:07:46.775] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo was slain by Forge Sentry
+[12Mar2025 14:07:46.782] [Server thread/INFO] [tombstone/]: The player Ronditoo has successfully been saved
+[12Mar2025 14:09:33.675] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo was slain by Foundry Guardian
+[12Mar2025 14:09:33.681] [Server thread/INFO] [tombstone/]: The player Ronditoo has successfully been saved
+[12Mar2025 14:10:29.676] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo was killed by magic whilst trying to escape Hoglin
+[12Mar2025 14:10:29.678] [Server thread/INFO] [tombstone/]: The player Ronditoo has successfully been saved
+[12Mar2025 14:11:14.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo has made the advancement [Magic Writing]
+[12Mar2025 14:11:29.526] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo was slain by Magma Cube
+[12Mar2025 14:11:29.529] [Server thread/INFO] [tombstone/]: The player Ronditoo has successfully been saved
+[12Mar2025 14:12:19.475] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo was slain by Forge Sentry
+[12Mar2025 14:12:19.481] [Server thread/INFO] [tombstone/]: The player Ronditoo has successfully been saved
+[12Mar2025 14:13:48.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo was blown up by Mimic
+[12Mar2025 14:13:48.833] [Server thread/INFO] [tombstone/]: The player Ronditoo has successfully been saved
+[12Mar2025 14:13:49.905] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.world.server.TicketManager.func_219367_b(TicketManager.java:227) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_219183_a(ChunkManager.java:884) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217221_a(ServerChunkProvider.java:450) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147347_a(ServerPlayNetHandler.java:845) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket.func_148833_a(SourceFile:122) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket$PositionPacket.func_148833_a(SourceFile:56) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[12Mar2025 14:14:03.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo fell from a high place
+[12Mar2025 14:14:03.057] [Server thread/INFO] [tombstone/]: The player Ronditoo has successfully been saved

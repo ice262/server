@@ -199,3 +199,8 @@ java.lang.NullPointerException: null
 [12Mar2025 15:08:39.929] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
 [12Mar2025 15:16:35.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
 [12Mar2025 15:16:35.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 11<--[HERE]
+[12Mar2025 15:19:54.765] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo was doomed to fall by entity.treasure2.bound_soul
+[12Mar2025 15:19:54.778] [Server thread/INFO] [tombstone/]: The player Ronditoo has successfully been saved
+[12Mar2025 15:24:01.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo has made the advancement [The Most Useful Key]
+[12Mar2025 15:24:06.670] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo has reached the goal [A Fast Comeback]
+[12Mar2025 15:24:44.764] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1080, y=8, z=3363} BlockPos{x=-1080, y=7, z=3363}

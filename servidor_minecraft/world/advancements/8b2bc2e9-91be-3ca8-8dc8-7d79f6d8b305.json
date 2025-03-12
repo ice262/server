@@ -1531,6 +1531,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-03-12 17:53:56 +0000"
+    },
+    "done": true
+  },
   "bountifulbaubles:recipes/bountifulbaubles/obsidian_skull": {
     "criteria": {
       "obsidian": "2025-03-12 14:37:23 +0000"
@@ -2183,6 +2189,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-03-12 12:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-03-12 17:55:38 +0000"
     },
     "done": true
   },

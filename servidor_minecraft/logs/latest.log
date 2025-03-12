@@ -165,3 +165,6 @@ java.lang.NullPointerException: null
 [12Mar2025 17:46:53.103] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Ronditoo[/127.216.194.134:35715] logged in with entity id 365 at (-701.33099532904, 73.0, 3630.7145254389075)
 [12Mar2025 17:46:53.138] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo joined the game
 [12Mar2025 17:46:53.468] [Server thread/INFO] [Waila/]: Syncing config to Ronditoo (8b2bc2e9-91be-3ca8-8dc8-7d79f6d8b305)
+[12Mar2025 18:00:54.533] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/438, l='ServerLevel[world]', x=-729.49, y=67.00, z=3640.59] died, message: 'Farmer hit the ground too hard'
+[12Mar2025 18:05:21.311] [Worker-Main-4/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[12Mar2025 18:05:21.312] [Worker-Main-4/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears

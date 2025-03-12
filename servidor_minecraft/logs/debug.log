@@ -12701,3 +12701,27 @@ java.lang.NullPointerException: null
 [12Mar2025 19:05:44.741] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/16130, l='ServerLevel[world]', x=-1713.70, y=78.00, z=4608.30] died, message: 'Villager was slain by Zombie'
 [12Mar2025 19:06:45.839] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [12Mar2025 19:06:45.846] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[12Mar2025 19:07:38.691] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo was slain by Vex
+[12Mar2025 19:07:38.693] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ronditoo was created at position [x:-1733, y:73, z:4614, dim:minecraft:overworld]
+[12Mar2025 19:07:38.696] [Server thread/INFO] [tombstone/]: The player Ronditoo has successfully been saved
+[12Mar2025 19:08:44.192] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/16306, l='ServerLevel[world]', x=-1795.05, y=77.00, z=4622.42] died, message: 'Villager was slain by Ravager'
+[12Mar2025 19:09:34.637] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo was slain by Vindicator
+[12Mar2025 19:09:34.640] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ronditoo was created at position [x:-1734, y:63, z:4627, dim:minecraft:overworld]
+[12Mar2025 19:09:34.648] [Server thread/INFO] [tombstone/]: The player Ronditoo has successfully been saved
+[12Mar2025 19:10:34.945] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo has completed the challenge [Village Defender]
+[12Mar2025 19:10:37.339] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo was slain by Vindicator
+[12Mar2025 19:10:37.341] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ronditoo was created at position [x:-1680, y:68, z:4626, dim:minecraft:overworld]
+[12Mar2025 19:10:37.354] [Server thread/INFO] [tombstone/]: The player Ronditoo has successfully been saved
+[12Mar2025 19:11:23.290] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo was slain by Vex
+[12Mar2025 19:11:23.293] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ronditoo was created at position [x:-1680, y:68, z:4626, dim:minecraft:overworld]
+[12Mar2025 19:11:23.299] [Server thread/INFO] [tombstone/]: The player Ronditoo has successfully been saved
+[12Mar2025 19:11:45.880] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[12Mar2025 19:11:45.887] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[12Mar2025 19:12:04.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo was slain by Vindicator
+[12Mar2025 19:12:04.994] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ronditoo was created at position [x:-1678, y:69, z:4658, dim:minecraft:overworld]
+[12Mar2025 19:12:05.007] [Server thread/INFO] [tombstone/]: The player Ronditoo has successfully been saved
+[12Mar2025 19:12:20.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[12Mar2025 19:12:20.855] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 11<--[HERE]
+[12Mar2025 19:14:00.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo has completed the challenge [Hero of the Village]
+[12Mar2025 19:16:45.878] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[12Mar2025 19:16:45.886] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

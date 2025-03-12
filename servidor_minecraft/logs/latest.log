@@ -199,3 +199,20 @@ java.lang.NullPointerException: null
 [12Mar2025 22:11:52.921] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: varmkiss lost connection: Timed out
 [12Mar2025 22:11:52.921] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: varmkiss left the game
 [12Mar2025 22:11:52.980] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[12Mar2025 22:14:11.868] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/905, l='ServerLevel[world]', x=312.52, y=83.00, z=-426.15] died, message: 'Villager was slain by Zombie'
+[12Mar2025 22:15:02.624] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@75e665c5
+[12Mar2025 22:15:02.636] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: varmkiss[/127.64.17.49:56763] logged in with entity id 3499 at (150.56643752350786, 50.0, -256.6631913191056)
+[12Mar2025 22:15:02.640] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: varmkiss joined the game
+[12Mar2025 22:15:02.668] [Server thread/INFO] [Waila/]: Syncing config to varmkiss (06860fd3-f8ec-3092-8dc3-458f42eeba81)
+[12Mar2025 22:15:04.321] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo has made the advancement [Monster Hunter]
+[12Mar2025 22:15:23.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo has made the advancement [Acquire Hardware]
+[12Mar2025 22:18:43.762] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo has made the advancement [Isn't It Iron Pick]
+[12Mar2025 22:19:57.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo has made the advancement [Sweet Dreams]
+[12Mar2025 22:19:58.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ronditoo> zz
+[12Mar2025 22:19:58.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ronditoo> z
+[12Mar2025 22:19:58.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ronditoo> z
+[12Mar2025 22:19:58.825] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ronditoo> z
+[12Mar2025 22:19:58.931] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ronditoo> z
+[12Mar2025 22:20:22.733] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo has made the advancement [Knowledge raises the soul]
+[12Mar2025 22:20:29.675] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ronditoo> duerme
+[12Mar2025 22:20:31.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ronditoo> sleep

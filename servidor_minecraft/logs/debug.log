@@ -15515,3 +15515,9 @@ java.lang.NullPointerException: null
 [12Mar2025 15:27:00.926] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-51,226]
 [12Mar2025 15:27:00.935] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-51,225]
 [12Mar2025 15:27:00.935] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-51,225]
+[12Mar2025 15:28:24.720] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/24216, l='ServerLevel[world]', x=-766.30, y=68.00, z=3682.30] died, message: 'Villager was slain by Zombie'
+[12Mar2025 15:28:43.457] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[12Mar2025 15:28:43.464] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[12Mar2025 15:33:43.074] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[12Mar2025 15:33:43.081] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[12Mar2025 15:34:10.319] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@107f3b7b

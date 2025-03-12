@@ -204,3 +204,5 @@ java.lang.NullPointerException: null
 [12Mar2025 15:24:01.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo has made the advancement [The Most Useful Key]
 [12Mar2025 15:24:06.670] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo has reached the goal [A Fast Comeback]
 [12Mar2025 15:24:44.764] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1080, y=8, z=3363} BlockPos{x=-1080, y=7, z=3363}
+[12Mar2025 15:28:24.720] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/24216, l='ServerLevel[world]', x=-766.30, y=68.00, z=3682.30] died, message: 'Villager was slain by Zombie'
+[12Mar2025 15:34:10.319] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@107f3b7b

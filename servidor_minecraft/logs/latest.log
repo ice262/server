@@ -179,3 +179,6 @@ java.lang.NullPointerException: null
 [12Mar2025 14:25:30.555] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo has made the advancement [Hidden in the Depths]
 [12Mar2025 14:28:23.006] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Ronditoo moved too quickly! -448.41291670710655,61.243268443275895,-66.86317510768077
 [12Mar2025 14:37:23.103] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo has made the advancement [Ice Bucket Challenge]
+[12Mar2025 14:39:52.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo has made the advancement [Penteconter]
+[12Mar2025 14:43:20.767] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[12Mar2025 14:43:20.768] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 11<--[HERE]

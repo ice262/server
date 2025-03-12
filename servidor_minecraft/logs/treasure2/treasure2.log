@@ -622,3 +622,10 @@
 2025-03-12 14:35:57,959 [Worker-Main-4] INFO Treasure2 | AbstractChestBlock.java:159 | AbstractChestBlock | createNewTileEntity | lockStates -> [LockState [slot=LockSlot [index=0, face=NORTH, xOffset=0.5, yOffset=0.55, zOffset=0.17, rotation=0.0], lockItem=null]]
 2025-03-12 14:35:57,959 [Worker-Main-4] INFO Treasure2 | AbstractChestBlock.java:164 | AbstractChestBlock | createNewTileEntity | tileEntity -> mod.gottsch.forge.treasure2.core.tileentity.VikingChestTileEntity@69554807 @ BlockPos{x=0, y=0, z=0}
 2025-03-12 14:35:57,961 [Worker-Main-4] INFO Treasure2 | SurfaceChestFeature.java:269 | CHEATER! UNCOMMON chest at coords: -137 63 -1097
+2025-03-12 14:39:48,593 [Worker-Main-6] INFO Treasure2 | AbstractChestBlock.java:159 | AbstractChestBlock | createNewTileEntity | lockStates -> [LockState [slot=LockSlot [index=0, face=NORTH, xOffset=0.5, yOffset=0.55, zOffset=0.17, rotation=0.0], lockItem=null]]
+2025-03-12 14:39:48,593 [Worker-Main-6] INFO Treasure2 | AbstractChestBlock.java:164 | AbstractChestBlock | createNewTileEntity | tileEntity -> mod.gottsch.forge.treasure2.core.tileentity.VikingChestTileEntity@c7eb887 @ BlockPos{x=0, y=0, z=0}
+2025-03-12 14:39:48,595 [Worker-Main-6] INFO Treasure2 | SurfaceChestFeature.java:269 | CHEATER! UNCOMMON chest at coords: -345 65 -377
+2025-03-12 14:41:02,391 [Worker-Main-4] INFO Treasure2 | AbstractChestBlock.java:159 | AbstractChestBlock | createNewTileEntity | lockStates -> [LockState [slot=LockSlot [index=0, face=EAST, xOffset=0.72, yOffset=0.18, zOffset=0.5, rotation=90.0], lockItem=null]]
+2025-03-12 14:41:02,391 [Worker-Main-4] INFO Treasure2 | AbstractChestBlock.java:164 | AbstractChestBlock | createNewTileEntity | tileEntity -> mod.gottsch.forge.treasure2.core.tileentity.GoldSkullChestTileEntity@1dfa271f @ BlockPos{x=0, y=0, z=0}
+2025-03-12 14:41:02,393 [Worker-Main-4] INFO Treasure2 | SurfaceChestFeature.java:269 | CHEATER! RARE chest at coords: -761 63 -409
+2025-03-12 14:44:08,933 [Server thread] INFO Treasure2 | AbstractChestBlock.java:381 | block destroyed by player. should happen after block is broken/replaced

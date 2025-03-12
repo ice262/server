@@ -10804,3 +10804,42 @@ java.lang.NullPointerException: null
 [12Mar2025 18:09:55.806] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-85,303]
 [12Mar2025 18:11:46.483] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [12Mar2025 18:11:46.491] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[12Mar2025 18:16:46.299] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[12Mar2025 18:16:46.306] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[12Mar2025 18:19:17.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo has made the advancement [Voluntary Exile]
+[12Mar2025 18:20:22.647] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[12Mar2025 18:20:22.649] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 11<--[HERE]
+[12Mar2025 18:21:46.201] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[12Mar2025 18:21:46.207] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[12Mar2025 18:22:01.258] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-62,298]
+[12Mar2025 18:22:01.258] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-62,298]
+[12Mar2025 18:25:09.216] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-61,298]
+[12Mar2025 18:25:09.216] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-61,298]
+[12Mar2025 18:25:14.565] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-60,298]
+[12Mar2025 18:25:14.565] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_90 at (-952 | 49 | 4757)
+[12Mar2025 18:25:14.566] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_90 at (-952 | 49 | 4757)
+[12Mar2025 18:25:14.566] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/dark_hall with rotation CLOCKWISE_90 at (-952 | 40 | 4766)
+[12Mar2025 18:25:14.566] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/dark_hall with rotation CLOCKWISE_90 at (-952 | 40 | 4766)
+[12Mar2025 18:25:14.566] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-60,298]
+[12Mar2025 18:25:20.615] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-59,298]
+[12Mar2025 18:25:20.615] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_90 at (-952 | 49 | 4757)
+[12Mar2025 18:25:20.616] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_90 at (-952 | 49 | 4757)
+[12Mar2025 18:25:20.616] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/dark_hall with rotation CLOCKWISE_90 at (-952 | 40 | 4766)
+[12Mar2025 18:25:20.617] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/dark_hall with rotation CLOCKWISE_90 at (-952 | 40 | 4766)
+[12Mar2025 18:25:20.617] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-59,298]
+[12Mar2025 18:25:27.313] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-58,296]
+[12Mar2025 18:25:27.313] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (-920 | 49 | 4734)
+[12Mar2025 18:25:27.313] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (-920 | 49 | 4734)
+[12Mar2025 18:25:27.313] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (-921 | 49 | 4743)
+[12Mar2025 18:25:27.314] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (-921 | 49 | 4743)
+[12Mar2025 18:25:27.314] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (-916 | 12 | 4721)
+[12Mar2025 18:25:27.314] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (-916 | 12 | 4721)
+[12Mar2025 18:25:27.314] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/lava_hall with rotation CLOCKWISE_90 at (-916 | 13 | 4748)
+[12Mar2025 18:25:27.315] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/lava_hall with rotation CLOCKWISE_90 at (-916 | 13 | 4748)
+[12Mar2025 18:25:27.315] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-58,296]
+[12Mar2025 18:25:27.321] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-58,297]
+[12Mar2025 18:25:27.322] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/lava_hall with rotation CLOCKWISE_90 at (-916 | 13 | 4748)
+[12Mar2025 18:25:27.322] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/lava_hall with rotation CLOCKWISE_90 at (-916 | 13 | 4748)
+[12Mar2025 18:25:27.322] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-58,297]
+[12Mar2025 18:25:27.330] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-58,298]
+[12Mar2025 18:25:27.330] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-58,298]

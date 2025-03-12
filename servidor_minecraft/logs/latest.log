@@ -168,3 +168,6 @@ java.lang.NullPointerException: null
 [12Mar2025 18:00:54.533] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/438, l='ServerLevel[world]', x=-729.49, y=67.00, z=3640.59] died, message: 'Farmer hit the ground too hard'
 [12Mar2025 18:05:21.311] [Worker-Main-4/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
 [12Mar2025 18:05:21.312] [Worker-Main-4/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[12Mar2025 18:19:17.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo has made the advancement [Voluntary Exile]
+[12Mar2025 18:20:22.647] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[12Mar2025 18:20:22.649] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 11<--[HERE]

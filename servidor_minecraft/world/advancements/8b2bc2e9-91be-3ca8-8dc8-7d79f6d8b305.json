@@ -723,9 +723,11 @@
       "minecraft:vindicator": "2025-03-12 18:39:19 +0000",
       "minecraft:piglin_brute": "2025-03-12 12:55:59 +0000",
       "minecraft:spider": "2025-03-12 13:59:16 +0000",
+      "minecraft:evoker": "2025-03-12 18:57:07 +0000",
       "minecraft:witch": "2025-03-12 18:50:28 +0000",
       "minecraft:wither_skeleton": "2025-03-12 14:06:24 +0000",
       "minecraft:enderman": "2025-03-12 15:21:55 +0000",
+      "minecraft:vex": "2025-03-12 18:57:12 +0000",
       "minecraft:zombie": "2025-03-12 12:38:37 +0000"
     },
     "done": false
@@ -1051,6 +1053,12 @@
   "minecraft:recipes/travelersbackpack/cow_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2025-03-12 13:51:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2025-03-12 19:01:37 +0000"
     },
     "done": true
   },
@@ -3524,6 +3532,12 @@
   "minecraft:recipes/travelersbackpack/bookshelf_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2025-03-12 13:51:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-03-12 19:02:04 +0000"
     },
     "done": true
   },

@@ -12601,3 +12601,103 @@ java.lang.NullPointerException: null
 [12Mar2025 18:52:01.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo was slain by Vindicator
 [12Mar2025 18:52:01.692] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ronditoo was created at position [x:-1727, y:69, z:4635, dim:minecraft:overworld]
 [12Mar2025 18:52:01.698] [Server thread/INFO] [tombstone/]: The player Ronditoo has successfully been saved
+[12Mar2025 18:56:45.869] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[12Mar2025 18:56:45.876] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[12Mar2025 18:57:31.391] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo was slain by Vex
+[12Mar2025 18:57:31.394] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ronditoo was created at position [x:-1687, y:64, z:4575, dim:minecraft:overworld]
+[12Mar2025 18:57:31.397] [Server thread/INFO] [tombstone/]: The player Ronditoo has successfully been saved
+[12Mar2025 18:59:25.845] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo was shot by Pillager
+[12Mar2025 18:59:25.847] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ronditoo was created at position [x:-1684, y:69, z:4641, dim:minecraft:overworld]
+[12Mar2025 18:59:25.849] [Server thread/INFO] [tombstone/]: The player Ronditoo has successfully been saved
+[12Mar2025 18:59:44.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo was slain by Vex
+[12Mar2025 18:59:44.445] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ronditoo was created at position [x:-1683, y:72, z:4640, dim:minecraft:overworld]
+[12Mar2025 18:59:44.451] [Server thread/INFO] [tombstone/]: The player Ronditoo has successfully been saved
+[12Mar2025 19:00:11.089] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Weaponsmith'/16299, l='ServerLevel[world]', x=-1777.92, y=65.00, z=4690.02] died, message: 'Weaponsmith was slain by Zombie'
+[12Mar2025 19:00:30.590] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo was slain by Vindicator
+[12Mar2025 19:00:30.592] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ronditoo was created at position [x:-1680, y:67, z:4641, dim:minecraft:overworld]
+[12Mar2025 19:00:30.606] [Server thread/INFO] [tombstone/]: The player Ronditoo has successfully been saved
+[12Mar2025 19:00:45.737] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo was slain by Vindicator
+[12Mar2025 19:00:45.739] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ronditoo was created at position [x:-1681, y:67, z:4641, dim:minecraft:overworld]
+[12Mar2025 19:00:45.748] [Server thread/INFO] [tombstone/]: The player Ronditoo has successfully been saved
+[12Mar2025 19:01:11.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo was slain by Vindicator
+[12Mar2025 19:01:11.343] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ronditoo was created at position [x:-1683, y:67, z:4638, dim:minecraft:overworld]
+[12Mar2025 19:01:11.356] [Server thread/INFO] [tombstone/]: The player Ronditoo has successfully been saved
+[12Mar2025 19:01:45.849] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[12Mar2025 19:01:45.856] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[12Mar2025 19:02:06.139] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo was slain by Vindicator
+[12Mar2025 19:02:06.142] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ronditoo was created at position [x:-1669, y:73, z:4668, dim:minecraft:overworld]
+[12Mar2025 19:02:06.153] [Server thread/INFO] [tombstone/]: The player Ronditoo has successfully been saved
+[12Mar2025 19:04:17.185] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-114,304]
+[12Mar2025 19:04:17.185] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-114,304]
+[12Mar2025 19:04:17.198] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-113,304]
+[12Mar2025 19:04:17.198] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-113,304]
+[12Mar2025 19:04:17.209] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-112,304]
+[12Mar2025 19:04:17.209] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_90 at (-1778 | 40 | 4871)
+[12Mar2025 19:04:17.209] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_90 at (-1778 | 40 | 4871)
+[12Mar2025 19:04:17.209] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-112,304]
+[12Mar2025 19:04:17.218] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-111,304]
+[12Mar2025 19:04:17.218] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/fire with rotation CLOCKWISE_90 at (-1768 | 40 | 4862)
+[12Mar2025 19:04:17.218] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/fire with rotation CLOCKWISE_90 at (-1768 | 40 | 4862)
+[12Mar2025 19:04:17.218] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation COUNTERCLOCKWISE_90 at (-1773 | 40 | 4862)
+[12Mar2025 19:04:17.218] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation COUNTERCLOCKWISE_90 at (-1773 | 40 | 4862)
+[12Mar2025 19:04:17.218] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (-1772 | 40 | 4857)
+[12Mar2025 19:04:17.219] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (-1772 | 40 | 4857)
+[12Mar2025 19:04:17.219] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-1773 | 40 | 4866)
+[12Mar2025 19:04:17.219] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-1773 | 40 | 4866)
+[12Mar2025 19:04:17.219] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_90 at (-1778 | 40 | 4871)
+[12Mar2025 19:04:17.219] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_90 at (-1778 | 40 | 4871)
+[12Mar2025 19:04:17.219] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-111,304]
+[12Mar2025 19:04:17.226] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-110,304]
+[12Mar2025 19:04:17.226] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-1756 | 40 | 4857)
+[12Mar2025 19:04:17.227] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-1756 | 40 | 4857)
+[12Mar2025 19:04:17.227] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation NONE at (-1748 | 31 | 4858)
+[12Mar2025 19:04:17.227] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation NONE at (-1748 | 31 | 4858)
+[12Mar2025 19:04:17.227] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (-1755 | 31 | 4865)
+[12Mar2025 19:04:17.227] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (-1755 | 31 | 4865)
+[12Mar2025 19:04:17.227] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (-1759 | 31 | 4858)
+[12Mar2025 19:04:17.228] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (-1759 | 31 | 4858)
+[12Mar2025 19:04:17.228] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (-1760 | 31 | 4853)
+[12Mar2025 19:04:17.228] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (-1760 | 31 | 4853)
+[12Mar2025 19:04:17.228] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-110,304]
+[12Mar2025 19:04:17.246] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-109,304]
+[12Mar2025 19:04:17.246] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (-1760 | 31 | 4853)
+[12Mar2025 19:04:17.246] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (-1760 | 31 | 4853)
+[12Mar2025 19:04:17.246] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-109,304]
+[12Mar2025 19:04:17.256] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-115,304]
+[12Mar2025 19:04:17.256] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_90 at (-1835 | 36 | 4868)
+[12Mar2025 19:04:17.256] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_90 at (-1835 | 36 | 4868)
+[12Mar2025 19:04:17.256] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation NONE at (-1829 | 31 | 4863)
+[12Mar2025 19:04:17.256] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation NONE at (-1829 | 31 | 4863)
+[12Mar2025 19:04:17.257] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (-1841 | 31 | 4863)
+[12Mar2025 19:04:17.257] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (-1841 | 31 | 4863)
+[12Mar2025 19:04:17.257] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation NONE at (-1829 | 31 | 4867)
+[12Mar2025 19:04:17.257] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation NONE at (-1829 | 31 | 4867)
+[12Mar2025 19:04:17.257] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (-1836 | 31 | 4874)
+[12Mar2025 19:04:17.257] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (-1836 | 31 | 4874)
+[12Mar2025 19:04:17.258] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/large_wall with rotation CLOCKWISE_180 at (-1837 | 31 | 4868)
+[12Mar2025 19:04:17.258] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/large_wall with rotation CLOCKWISE_180 at (-1837 | 31 | 4868)
+[12Mar2025 19:04:17.258] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (-1841 | 31 | 4862)
+[12Mar2025 19:04:17.258] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (-1841 | 31 | 4862)
+[12Mar2025 19:04:17.258] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-115,304]
+[12Mar2025 19:04:17.275] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-116,304]
+[12Mar2025 19:04:17.275] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (-1841 | 31 | 4863)
+[12Mar2025 19:04:17.276] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (-1841 | 31 | 4863)
+[12Mar2025 19:04:17.276] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (-1841 | 31 | 4862)
+[12Mar2025 19:04:17.276] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (-1841 | 31 | 4862)
+[12Mar2025 19:04:17.276] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-116,304]
+[12Mar2025 19:04:17.298] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-117,304]
+[12Mar2025 19:04:17.298] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-117,304]
+[12Mar2025 19:04:17.446] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-111,305]
+[12Mar2025 19:04:17.446] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_90 at (-1778 | 40 | 4871)
+[12Mar2025 19:04:17.447] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_90 at (-1778 | 40 | 4871)
+[12Mar2025 19:04:17.447] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-111,305]
+[12Mar2025 19:04:17.457] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-110,305]
+[12Mar2025 19:04:17.457] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-110,305]
+[12Mar2025 19:04:17.467] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-109,305]
+[12Mar2025 19:04:17.467] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-109,305]
+[12Mar2025 19:04:54.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo was slain by Vindicator
+[12Mar2025 19:04:54.791] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ronditoo was created at position [x:-1727, y:69, z:4641, dim:minecraft:overworld]
+[12Mar2025 19:04:54.803] [Server thread/INFO] [tombstone/]: The player Ronditoo has successfully been saved
+[12Mar2025 19:05:44.741] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/16130, l='ServerLevel[world]', x=-1713.70, y=78.00, z=4608.30] died, message: 'Villager was slain by Zombie'
+[12Mar2025 19:06:45.839] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[12Mar2025 19:06:45.846] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

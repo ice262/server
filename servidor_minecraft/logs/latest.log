@@ -195,3 +195,21 @@ java.lang.NullPointerException: null
 [12Mar2025 18:51:27.491] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Weaponsmith'/16155, l='ServerLevel[world]', x=-1735.66, y=63.00, z=4633.27] died, message: 'Weaponsmith was slain by Vindicator'
 [12Mar2025 18:52:01.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo was slain by Vindicator
 [12Mar2025 18:52:01.698] [Server thread/INFO] [tombstone/]: The player Ronditoo has successfully been saved
+[12Mar2025 18:57:31.391] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo was slain by Vex
+[12Mar2025 18:57:31.397] [Server thread/INFO] [tombstone/]: The player Ronditoo has successfully been saved
+[12Mar2025 18:59:25.845] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo was shot by Pillager
+[12Mar2025 18:59:25.849] [Server thread/INFO] [tombstone/]: The player Ronditoo has successfully been saved
+[12Mar2025 18:59:44.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo was slain by Vex
+[12Mar2025 18:59:44.451] [Server thread/INFO] [tombstone/]: The player Ronditoo has successfully been saved
+[12Mar2025 19:00:11.089] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Weaponsmith'/16299, l='ServerLevel[world]', x=-1777.92, y=65.00, z=4690.02] died, message: 'Weaponsmith was slain by Zombie'
+[12Mar2025 19:00:30.590] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo was slain by Vindicator
+[12Mar2025 19:00:30.606] [Server thread/INFO] [tombstone/]: The player Ronditoo has successfully been saved
+[12Mar2025 19:00:45.737] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo was slain by Vindicator
+[12Mar2025 19:00:45.748] [Server thread/INFO] [tombstone/]: The player Ronditoo has successfully been saved
+[12Mar2025 19:01:11.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo was slain by Vindicator
+[12Mar2025 19:01:11.356] [Server thread/INFO] [tombstone/]: The player Ronditoo has successfully been saved
+[12Mar2025 19:02:06.139] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo was slain by Vindicator
+[12Mar2025 19:02:06.153] [Server thread/INFO] [tombstone/]: The player Ronditoo has successfully been saved
+[12Mar2025 19:04:54.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo was slain by Vindicator
+[12Mar2025 19:04:54.803] [Server thread/INFO] [tombstone/]: The player Ronditoo has successfully been saved
+[12Mar2025 19:05:44.741] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/16130, l='ServerLevel[world]', x=-1713.70, y=78.00, z=4608.30] died, message: 'Villager was slain by Zombie'

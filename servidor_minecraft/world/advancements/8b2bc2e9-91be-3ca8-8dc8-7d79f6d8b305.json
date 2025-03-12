@@ -620,6 +620,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-03-12 14:48:37 +0000",
       "minecraft:skeleton": "2025-03-12 13:04:24 +0000",
       "minecraft:hoglin": "2025-03-12 14:10:30 +0000",
       "minecraft:piglin_brute": "2025-03-12 12:55:59 +0000",
@@ -872,6 +873,12 @@
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-03-12 13:53:40 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2025-03-12 14:47:58 +0000"
     },
     "done": true
   },
@@ -1493,6 +1500,12 @@
     },
     "done": true
   },
+  "usefulbackpacks:recipes/backpack_large": {
+    "criteria": {
+      "has_medium_backpack": "2025-03-12 14:51:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/iron_golem_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-03-12 13:01:28 +0000"
@@ -1736,6 +1749,12 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-03-12 12:50:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_reeds": "2025-03-12 14:46:44 +0000"
     },
     "done": true
   },
@@ -2301,6 +2320,12 @@
   "securitycraft:recipes/securitycraft/keycard_lv1": {
     "criteria": {
       "has_iron": "2025-03-12 13:05:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-03-12 14:46:44 +0000"
     },
     "done": true
   },

@@ -4809,3 +4809,12 @@ java.lang.NullPointerException: null
 [12Mar2025 14:43:20.768] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 11<--[HERE]
 [12Mar2025 14:43:43.112] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [12Mar2025 14:43:43.120] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[12Mar2025 14:47:58.856] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo has made the advancement [You Are A Pirate]
+[12Mar2025 14:48:43.207] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[12Mar2025 14:48:43.213] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[12Mar2025 14:53:43.025] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[12Mar2025 14:53:43.032] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[12Mar2025 14:56:37.146] [Worker-Main-5/DEBUG] [mixin/]: Mixing JigsawManagerAssemblerMixin from mixins.waystones.json into net.minecraft.world.gen.feature.jigsaw.JigsawManager$Assembler
+[12Mar2025 14:56:37.146] [Worker-Main-5/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$2(Lnet/minecraft/world/gen/feature/jigsaw/JigsawPiece;)Z to mdf61c7a$lambda$getShuffledPieces$2$0 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[12Mar2025 14:56:37.147] [Worker-Main-5/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$1(Ljava/lang/String;)Z to mdf61c7a$lambda$getShuffledPieces$1$1 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[12Mar2025 14:56:37.147] [Worker-Main-5/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$0(Ljava/lang/Object;)Ljava/lang/String; to mdf61c7a$lambda$getShuffledPieces$0$2 in mixins.waystones.json:JigsawManagerAssemblerMixin

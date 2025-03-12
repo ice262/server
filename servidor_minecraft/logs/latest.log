@@ -183,3 +183,15 @@ java.lang.NullPointerException: null
 [12Mar2025 14:43:20.767] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
 [12Mar2025 14:43:20.768] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 11<--[HERE]
 [12Mar2025 14:47:58.856] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo has made the advancement [You Are A Pirate]
+[12Mar2025 15:00:11.203] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Ronditoo was kicked for floating too long!
+[12Mar2025 15:00:11.205] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Ronditoo lost connection: Flying is not enabled on this server
+[12Mar2025 15:00:11.205] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo left the game
+[12Mar2025 15:00:11.301] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[12Mar2025 15:00:32.649] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[12Mar2025 15:00:32.649] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 11<--[HERE]
+[12Mar2025 15:00:33.412] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@42bc2448
+[12Mar2025 15:00:33.426] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Ronditoo[/127.216.194.134:48493] logged in with entity id 14209 at (-1071.1169961399876, 62.073264055155825, 1411.3649582905616)
+[12Mar2025 15:00:33.431] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo joined the game
+[12Mar2025 15:00:33.454] [Server thread/INFO] [Waila/]: Syncing config to Ronditoo (8b2bc2e9-91be-3ca8-8dc8-7d79f6d8b305)
+[12Mar2025 15:05:07.005] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/17273, l='ServerLevel[world]', x=-1682.49, y=105.00, z=2013.51] died, message: 'Villager suffocated in a wall'
+[12Mar2025 15:05:07.006] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/17274, l='ServerLevel[world]', x=-1682.51, y=105.00, z=2011.51] died, message: 'Villager suffocated in a wall'

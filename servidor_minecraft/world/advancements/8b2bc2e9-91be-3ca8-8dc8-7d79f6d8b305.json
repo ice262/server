@@ -660,6 +660,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-03-12 14:59:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/chicken_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-03-12 13:01:28 +0000"
@@ -735,6 +741,12 @@
   "minecraft:recipes/travelersbackpack/nether_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-03-12 13:01:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-12 14:54:12 +0000"
     },
     "done": true
   },
@@ -1326,6 +1338,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/shuriken/flint_shuriken": {
+    "criteria": {
+      "has_item": "2025-03-12 14:59:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_slab": {
     "criteria": {
       "has_cut_sandstone": "2025-03-12 12:50:04 +0000"
@@ -1353,6 +1371,12 @@
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-03-12 13:53:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis": "2025-03-12 14:54:12 +0000"
     },
     "done": true
   },
@@ -2452,6 +2476,12 @@
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2025-03-12 13:20:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-03-12 14:59:56 +0000"
     },
     "done": true
   },

@@ -4795,3 +4795,10 @@ java.lang.NullPointerException: null
 [12Mar2025 14:23:43.144] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [12Mar2025 14:25:30.552] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo has made the advancement [Into Fire]
 [12Mar2025 14:25:30.555] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo has made the advancement [Hidden in the Depths]
+[12Mar2025 14:28:23.006] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Ronditoo moved too quickly! -448.41291670710655,61.243268443275895,-66.86317510768077
+[12Mar2025 14:28:42.738] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[12Mar2025 14:28:42.749] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[12Mar2025 14:31:34.183] [Worker-Main-4/DEBUG] [mixin/]: Mixing access.WorldDecoratingHelperAccess from byg.mixins.json into net.minecraft.world.gen.feature.WorldDecoratingHelper
+[12Mar2025 14:33:42.902] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[12Mar2025 14:33:42.912] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[12Mar2025 14:37:23.103] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo has made the advancement [Ice Bucket Challenge]

@@ -187,3 +187,11 @@ java.lang.NullPointerException: null
 [12Mar2025 18:42:49.029] [Server thread/INFO] [tombstone/]: The player Ronditoo has successfully been saved
 [12Mar2025 18:44:41.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo was slain by Vindicator
 [12Mar2025 18:44:41.452] [Server thread/INFO] [tombstone/]: The player Ronditoo has successfully been saved
+[12Mar2025 18:46:39.885] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Toolsmith'/16076, l='ServerLevel[world]', x=-1670.13, y=67.23, z=4638.54] died, message: 'Toolsmith was slain by Vindicator'
+[12Mar2025 18:48:53.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo was slain by Ravager
+[12Mar2025 18:48:53.452] [Server thread/INFO] [tombstone/]: The player Ronditoo has successfully been saved
+[12Mar2025 18:50:59.484] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Fisherman'/16190, l='ServerLevel[world]', x=-1748.49, y=72.00, z=4607.37] died, message: 'Fisherman hit the ground too hard'
+[12Mar2025 18:51:25.039] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/16199, l='ServerLevel[world]', x=-1744.74, y=63.56, z=4635.33] died, message: 'Villager was slain by Vindicator'
+[12Mar2025 18:51:27.491] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Weaponsmith'/16155, l='ServerLevel[world]', x=-1735.66, y=63.00, z=4633.27] died, message: 'Weaponsmith was slain by Vindicator'
+[12Mar2025 18:52:01.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo was slain by Vindicator
+[12Mar2025 18:52:01.698] [Server thread/INFO] [tombstone/]: The player Ronditoo has successfully been saved

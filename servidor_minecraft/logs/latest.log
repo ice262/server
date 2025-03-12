@@ -171,3 +171,19 @@ java.lang.NullPointerException: null
 [12Mar2025 18:19:17.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo has made the advancement [Voluntary Exile]
 [12Mar2025 18:20:22.647] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
 [12Mar2025 18:20:22.649] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 11<--[HERE]
+[12Mar2025 18:39:19.694] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/12321, l='ServerLevel[world]', x=-1753.77, y=62.44, z=4627.30] died, message: 'Villager was shot by Pillager'
+[12Mar2025 18:39:32.430] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Mason'/12582, l='ServerLevel[world]', x=-1728.34, y=63.00, z=4634.90] died, message: 'Mason was slain by Vindicator'
+[12Mar2025 18:39:34.395] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/12301, l='ServerLevel[world]', x=-1729.82, y=63.00, z=4634.39] died, message: 'Villager was slain by Vindicator'
+[12Mar2025 18:39:36.400] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/12320, l='ServerLevel[world]', x=-1732.74, y=62.94, z=4634.37] died, message: 'Villager was slain by Vindicator'
+[12Mar2025 18:39:38.547] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/12431, l='ServerLevel[world]', x=-1726.49, y=63.00, z=4636.16] died, message: 'Villager was slain by Vindicator'
+[12Mar2025 18:39:58.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo has reached the goal [Fortuitous Militia]
+[12Mar2025 18:40:39.292] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/12434, l='ServerLevel[world]', x=-1730.70, y=63.00, z=4635.30] died, message: 'Villager was slain by Zombie'
+[12Mar2025 18:40:57.347] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/12413, l='ServerLevel[world]', x=-1730.70, y=63.00, z=4635.30] died, message: 'Farmer was slain by Zombie Villager'
+[12Mar2025 18:40:58.442] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Toolsmith'/12135, l='ServerLevel[world]', x=-1667.22, y=71.77, z=4646.42] died, message: 'Toolsmith was slain by Vindicator'
+[12Mar2025 18:41:01.592] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/12134, l='ServerLevel[world]', x=-1668.56, y=67.00, z=4643.30] died, message: 'Villager was slain by Vindicator'
+[12Mar2025 18:41:46.637] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Fisherman'/12217, l='ServerLevel[world]', x=-1730.70, y=63.00, z=4635.30] died, message: 'Fisherman was slain by Zombie Villager'
+[12Mar2025 18:42:49.012] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo has reached the goal [Strong or Careful]
+[12Mar2025 18:42:49.013] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo was doomed to fall by Vindicator
+[12Mar2025 18:42:49.029] [Server thread/INFO] [tombstone/]: The player Ronditoo has successfully been saved
+[12Mar2025 18:44:41.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo was slain by Vindicator
+[12Mar2025 18:44:41.452] [Server thread/INFO] [tombstone/]: The player Ronditoo has successfully been saved

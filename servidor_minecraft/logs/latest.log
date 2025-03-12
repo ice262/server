@@ -1,192 +1,189 @@
-[12Mar2025 12:07:03.859] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
-[12Mar2025 12:07:03.862] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.26 by Ubuntu
-[12Mar2025 12:07:04.187] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
-[12Mar2025 12:07:04.248] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
-[12Mar2025 12:07:04.964] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[12Mar2025 12:07:05.060] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[12Mar2025 12:07:05.068] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[12Mar2025 12:07:05.075] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[12Mar2025 12:07:05.083] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[12Mar2025 12:07:05.237] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 2:141 token recognition error at: ';'
-[12Mar2025 12:07:06.860] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
-[12Mar2025 12:07:16.582] [modloading-worker-0/INFO] [JarSignVerifier/]: Mod usefulbackpacks is signed with a valid certificate.
-[12Mar2025 12:07:16.880] [modloading-worker-3/INFO] [ironfurnaces.IronFurnaces/]: Initializing Update Checker...
-[12Mar2025 12:07:16.885] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Starting Update Check...
-[12Mar2025 12:07:16.934] [modloading-worker-3/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[12Mar2025 12:07:16.984] [modloading-worker-3/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[12Mar2025 12:07:17.131] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
-[12Mar2025 12:07:17.712] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Update Check done!
-[12Mar2025 12:07:17.712] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Iron Furnaces is up to date!
-[12Mar2025 12:07:17.927] [modloading-worker-3/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.12...
-[12Mar2025 12:07:18.291] [modloading-worker-3/INFO] [JarSignVerifier/]: Mod uteamcore is signed with a valid certificate.
-[12Mar2025 12:07:18.634] [modloading-worker-3/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
-[12Mar2025 12:07:18.634] [modloading-worker-3/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
-[12Mar2025 12:07:18.861] [modloading-worker-0/INFO] [expandability/]: ExpandAbility here, who dis?
-[12Mar2025 12:07:18.890] [modloading-worker-0/INFO] [chocolate/]: Vanilla is real good, but chocolate is better, let's be honest. :)
-[12Mar2025 12:07:28.738] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Blocks registered!
-[12Mar2025 12:07:29.285] [main/INFO] [Spartan Shields/]: Registering Items
-[12Mar2025 12:07:29.288] [main/INFO] [Spartan Shields/]: Registered Items successfully!
-[12Mar2025 12:07:29.743] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Items registered!
-[12Mar2025 12:07:30.162] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Block Entities registered!
-[12Mar2025 12:07:30.184] [main/INFO] [Spartan Shields/]: Registering Enchantments
-[12Mar2025 12:07:30.185] [main/INFO] [Spartan Shields/]: Registered Enchantments successfully!
-[12Mar2025 12:07:30.427] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Entities registered!
-[12Mar2025 12:07:30.558] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
-[12Mar2025 12:07:30.559] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
-[12Mar2025 12:07:30.705] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Block Entities registered!
-[12Mar2025 12:07:30.809] [main/INFO] [Treasure2/]: colliding particle data creating from coords, deserializer...
-[12Mar2025 12:07:30.811] [main/INFO] [Treasure2/]: colliding particle data creating from coords, deserializer...
-[12Mar2025 12:07:31.218] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Sounds registered!
-[12Mar2025 12:07:33.253] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Biomes registered!
-[12Mar2025 12:07:33.260] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Registering block placer types!
-[12Mar2025 12:07:33.272] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Decorators registered!
-[12Mar2025 12:07:33.288] [main/INFO] [Treasure2/]: registering features and configs...
-[12Mar2025 12:07:33.320] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Features registered!
-[12Mar2025 12:07:33.461] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Structures registered!
-[12Mar2025 12:07:33.479] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Surface builders Registered!
-[12Mar2025 12:07:33.582] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[12Mar2025 12:07:33.760] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for goblintraders:goblin_trader, use EntityAttributeCreationEvent instead.
-[12Mar2025 12:07:33.760] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for goblintraders:vein_goblin_trader, use EntityAttributeCreationEvent instead.
-[12Mar2025 12:07:33.847] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
-[12Mar2025 12:07:33.984] [modloading-worker-1/INFO] [Dungeon Crawl/]: Common Setup
-[12Mar2025 12:07:33.997] [modloading-worker-1/INFO] [Dungeon Crawl/]: Whitelisted Dimensions:
-[12Mar2025 12:07:34.001] [modloading-worker-1/INFO] [Dungeon Crawl/]: minecraft:overworld
-[12Mar2025 12:07:34.057] [modloading-worker-0/INFO] [corgiaoc.byg.BYG/]: BYG: "Common Setup" Event Complete!
-[12Mar2025 12:07:34.087] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
-[12Mar2025 12:07:34.148] [main/INFO] [journeymap/]: Initializing Packet Registries
-[12Mar2025 12:07:34.313] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid minecraft:water as a FluidEffect for Water with the ID 0
-[12Mar2025 12:07:34.314] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid minecraft:lava as a FluidEffect for Lava with the ID 1
-[12Mar2025 12:07:34.316] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid travelersbackpack:potion_fluid as a FluidEffect for Uncraftable Potion with the ID 2
-[12Mar2025 12:07:34.316] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid minecraft:milk as a FluidEffect for Milk with the ID 3
-[12Mar2025 12:07:34.316] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid minecraft:empty as a FluidEffect for Air with the ID 4
-[12Mar2025 12:07:34.339] [main/INFO] [Dungeon Crawl/]: Registering Structure Piece Types
-[12Mar2025 12:07:34.383] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:creeper_minion, use EntityAttributeCreationEvent instead.
-[12Mar2025 12:07:34.384] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:endersoul_clone, use EntityAttributeCreationEvent instead.
-[12Mar2025 12:07:34.384] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:mutant_creeper, use EntityAttributeCreationEvent instead.
-[12Mar2025 12:07:34.385] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:mutant_enderman, use EntityAttributeCreationEvent instead.
-[12Mar2025 12:07:34.386] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:mutant_skeleton, use EntityAttributeCreationEvent instead.
-[12Mar2025 12:07:34.386] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:mutant_snow_golem, use EntityAttributeCreationEvent instead.
-[12Mar2025 12:07:34.387] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:mutant_zombie, use EntityAttributeCreationEvent instead.
-[12Mar2025 12:07:34.387] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:spider_pig, use EntityAttributeCreationEvent instead.
-[12Mar2025 12:07:34.391] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantmore:mutant_husk, use EntityAttributeCreationEvent instead.
-[12Mar2025 12:07:34.391] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantmore:mutant_wither_skeleton, use EntityAttributeCreationEvent instead.
-[12Mar2025 12:07:34.392] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantmore:mutant_blaze, use EntityAttributeCreationEvent instead.
-[12Mar2025 12:07:34.393] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantmore:rodling, use EntityAttributeCreationEvent instead.
-[12Mar2025 12:07:34.394] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantmore:mutant_hoglin, use EntityAttributeCreationEvent instead.
-[12Mar2025 12:07:34.395] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantmore:mutant_shulker, use EntityAttributeCreationEvent instead.
-[12Mar2025 12:07:34.395] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantmore:mutant_shulker_box, use EntityAttributeCreationEvent instead.
-[12Mar2025 12:07:34.511] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Found status: UP_TO_DATE Current: 1.12.1.103 Target: null
-[12Mar2025 12:07:34.511] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [treasure2] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-Treasure/1.16.5-master/update.json
-[12Mar2025 12:07:34.657] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [treasure2] Found status: UP_TO_DATE Current: 3.1.1 Target: null
-[12Mar2025 12:07:34.658] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
-[12Mar2025 12:07:34.827] [modloading-worker-2/INFO] [Waila/]: Registered plugin at net.blay09.mods.waystones.compat.WailaProvider
-[12Mar2025 12:07:34.850] [modloading-worker-2/INFO] [Waila/]: Registered plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
-[12Mar2025 12:07:34.856] [modloading-worker-2/INFO] [Waila/]: Registered plugin at ovh.corail.tombstone.compatibility.IntegrationWaila
-[12Mar2025 12:07:34.882] [modloading-worker-2/INFO] [Waila/]: Registered plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
-[12Mar2025 12:07:34.908] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Compostible Blocks Added!
-[12Mar2025 12:07:34.915] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Added Hoeable Blocks!
-[12Mar2025 12:07:34.924] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Added Flammables!
-[12Mar2025 12:07:34.929] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Added strippable Blocks...
-[12Mar2025 12:07:35.708] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.7.3 Target: 1.7.3
-[12Mar2025 12:07:35.709] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[12Mar2025 12:07:36.129] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[12Mar2025 13:45:11.184] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[12Mar2025 13:45:11.187] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.26 by Ubuntu
+[12Mar2025 13:45:11.633] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[12Mar2025 13:45:11.702] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[12Mar2025 13:45:12.470] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[12Mar2025 13:45:12.567] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[12Mar2025 13:45:12.574] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[12Mar2025 13:45:12.581] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[12Mar2025 13:45:12.587] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[12Mar2025 13:45:12.728] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 2:141 token recognition error at: ';'
+[12Mar2025 13:45:13.751] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[12Mar2025 13:45:22.191] [modloading-worker-3/INFO] [JarSignVerifier/]: Mod usefulbackpacks is signed with a valid certificate.
+[12Mar2025 13:45:22.463] [modloading-worker-0/INFO] [ironfurnaces.IronFurnaces/]: Initializing Update Checker...
+[12Mar2025 13:45:22.469] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Starting Update Check...
+[12Mar2025 13:45:22.533] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[12Mar2025 13:45:22.581] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[12Mar2025 13:45:22.670] [modloading-worker-1/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
+[12Mar2025 13:45:23.114] [modloading-worker-3/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.12...
+[12Mar2025 13:45:23.256] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Update Check done!
+[12Mar2025 13:45:23.257] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Iron Furnaces is up to date!
+[12Mar2025 13:45:23.287] [modloading-worker-3/INFO] [JarSignVerifier/]: Mod uteamcore is signed with a valid certificate.
+[12Mar2025 13:45:23.779] [modloading-worker-2/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[12Mar2025 13:45:23.786] [modloading-worker-2/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
+[12Mar2025 13:45:23.886] [modloading-worker-3/INFO] [expandability/]: ExpandAbility here, who dis?
+[12Mar2025 13:45:23.966] [modloading-worker-2/INFO] [chocolate/]: Vanilla is real good, but chocolate is better, let's be honest. :)
+[12Mar2025 13:45:33.422] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Blocks registered!
+[12Mar2025 13:45:34.070] [main/INFO] [Spartan Shields/]: Registering Items
+[12Mar2025 13:45:34.075] [main/INFO] [Spartan Shields/]: Registered Items successfully!
+[12Mar2025 13:45:34.421] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Items registered!
+[12Mar2025 13:45:34.644] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Block Entities registered!
+[12Mar2025 13:45:34.662] [main/INFO] [Spartan Shields/]: Registering Enchantments
+[12Mar2025 13:45:34.663] [main/INFO] [Spartan Shields/]: Registered Enchantments successfully!
+[12Mar2025 13:45:34.757] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Entities registered!
+[12Mar2025 13:45:34.833] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[12Mar2025 13:45:34.837] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[12Mar2025 13:45:34.901] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Block Entities registered!
+[12Mar2025 13:45:34.958] [main/INFO] [Treasure2/]: colliding particle data creating from coords, deserializer...
+[12Mar2025 13:45:34.959] [main/INFO] [Treasure2/]: colliding particle data creating from coords, deserializer...
+[12Mar2025 13:45:35.157] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Sounds registered!
+[12Mar2025 13:45:37.234] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Biomes registered!
+[12Mar2025 13:45:37.240] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Registering block placer types!
+[12Mar2025 13:45:37.250] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Decorators registered!
+[12Mar2025 13:45:37.263] [main/INFO] [Treasure2/]: registering features and configs...
+[12Mar2025 13:45:37.284] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Features registered!
+[12Mar2025 13:45:37.290] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Structures registered!
+[12Mar2025 13:45:37.302] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Surface builders Registered!
+[12Mar2025 13:45:37.454] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[12Mar2025 13:45:37.483] [Thread-0/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[12Mar2025 13:45:37.485] [Thread-0/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[12Mar2025 13:45:37.614] [modloading-worker-2/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for goblintraders:goblin_trader, use EntityAttributeCreationEvent instead.
+[12Mar2025 13:45:37.614] [modloading-worker-2/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for goblintraders:vein_goblin_trader, use EntityAttributeCreationEvent instead.
+[12Mar2025 13:45:37.633] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
+[12Mar2025 13:45:37.781] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[12Mar2025 13:45:37.795] [modloading-worker-0/INFO] [Dungeon Crawl/]: Whitelisted Dimensions:
+[12Mar2025 13:45:37.795] [modloading-worker-0/INFO] [Dungeon Crawl/]: minecraft:overworld
+[12Mar2025 13:45:37.833] [modloading-worker-1/INFO] [corgiaoc.byg.BYG/]: BYG: "Common Setup" Event Complete!
+[12Mar2025 13:45:37.862] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
+[12Mar2025 13:45:37.903] [main/INFO] [journeymap/]: Initializing Packet Registries
+[12Mar2025 13:45:38.133] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid minecraft:water as a FluidEffect for Water with the ID 0
+[12Mar2025 13:45:38.133] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid minecraft:lava as a FluidEffect for Lava with the ID 1
+[12Mar2025 13:45:38.134] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid travelersbackpack:potion_fluid as a FluidEffect for Uncraftable Potion with the ID 2
+[12Mar2025 13:45:38.135] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid minecraft:milk as a FluidEffect for Milk with the ID 3
+[12Mar2025 13:45:38.138] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid minecraft:empty as a FluidEffect for Air with the ID 4
+[12Mar2025 13:45:38.156] [main/INFO] [Dungeon Crawl/]: Registering Structure Piece Types
+[12Mar2025 13:45:38.172] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:creeper_minion, use EntityAttributeCreationEvent instead.
+[12Mar2025 13:45:38.173] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:endersoul_clone, use EntityAttributeCreationEvent instead.
+[12Mar2025 13:45:38.173] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:mutant_creeper, use EntityAttributeCreationEvent instead.
+[12Mar2025 13:45:38.174] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:mutant_enderman, use EntityAttributeCreationEvent instead.
+[12Mar2025 13:45:38.175] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:mutant_skeleton, use EntityAttributeCreationEvent instead.
+[12Mar2025 13:45:38.175] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:mutant_snow_golem, use EntityAttributeCreationEvent instead.
+[12Mar2025 13:45:38.175] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:mutant_zombie, use EntityAttributeCreationEvent instead.
+[12Mar2025 13:45:38.176] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:spider_pig, use EntityAttributeCreationEvent instead.
+[12Mar2025 13:45:38.187] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Found status: UP_TO_DATE Current: 1.12.1.103 Target: null
+[12Mar2025 13:45:38.187] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [treasure2] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-Treasure/1.16.5-master/update.json
+[12Mar2025 13:45:38.188] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantmore:mutant_husk, use EntityAttributeCreationEvent instead.
+[12Mar2025 13:45:38.188] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantmore:mutant_wither_skeleton, use EntityAttributeCreationEvent instead.
+[12Mar2025 13:45:38.189] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantmore:mutant_blaze, use EntityAttributeCreationEvent instead.
+[12Mar2025 13:45:38.189] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantmore:rodling, use EntityAttributeCreationEvent instead.
+[12Mar2025 13:45:38.190] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantmore:mutant_hoglin, use EntityAttributeCreationEvent instead.
+[12Mar2025 13:45:38.191] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantmore:mutant_shulker, use EntityAttributeCreationEvent instead.
+[12Mar2025 13:45:38.191] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantmore:mutant_shulker_box, use EntityAttributeCreationEvent instead.
+[12Mar2025 13:45:38.346] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [treasure2] Found status: UP_TO_DATE Current: 3.1.1 Target: null
+[12Mar2025 13:45:38.349] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[12Mar2025 13:45:38.444] [modloading-worker-0/INFO] [Waila/]: Registered plugin at net.blay09.mods.waystones.compat.WailaProvider
+[12Mar2025 13:45:38.457] [modloading-worker-0/INFO] [Waila/]: Registered plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[12Mar2025 13:45:38.460] [modloading-worker-0/INFO] [Waila/]: Registered plugin at ovh.corail.tombstone.compatibility.IntegrationWaila
+[12Mar2025 13:45:38.465] [modloading-worker-0/INFO] [Waila/]: Registered plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[12Mar2025 13:45:38.479] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Compostible Blocks Added!
+[12Mar2025 13:45:38.482] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Added Hoeable Blocks!
+[12Mar2025 13:45:38.487] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Added Flammables!
+[12Mar2025 13:45:38.491] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Added strippable Blocks...
+[12Mar2025 13:45:39.351] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.7.3 Target: 1.7.3
+[12Mar2025 13:45:39.352] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[12Mar2025 13:45:39.660] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 java.lang.NullPointerException: null
 	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:160) ~[forge:?]
 	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:187) ~[forge:?]
 	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
 	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:128) [forge:?]
-[12Mar2025 12:07:36.130] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[12Mar2025 12:07:36.377] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: v1.9.12.1 Target: null
-[12Mar2025 12:07:36.400] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[12Mar2025 12:07:36.457] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[12Mar2025 13:45:39.663] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[12Mar2025 13:45:39.993] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: v1.9.12.1 Target: null
+[12Mar2025 13:45:39.993] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[12Mar2025 13:45:40.157] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 java.lang.NullPointerException: null
 	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:160) ~[forge:?]
 	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:187) ~[forge:?]
 	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
 	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:128) [forge:?]
-[12Mar2025 12:07:36.460] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[12Mar2025 12:07:36.471] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 6.9.6 Target: null
-[12Mar2025 12:07:36.471] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gottschcore] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-GottschCore/1.16.5-master/update.json
-[12Mar2025 12:07:36.614] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gottschcore] Found status: UP_TO_DATE Current: 1.8.0 Target: null
-[12Mar2025 12:07:36.614] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
-[12Mar2025 12:07:36.642] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Found status: UP_TO_DATE Current: 3.2.1.342 Target: null
-[12Mar2025 12:07:36.642] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
-[12Mar2025 12:07:36.649] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.3.0 Target: null
-[12Mar2025 12:07:36.649] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[12Mar2025 12:07:37.000] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
-[12Mar2025 12:07:37.000] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cofh_core] Starting version check at https://raw.github.com/cofh/version/master/cofh_core/update.json
-[12Mar2025 12:07:37.363] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cofh_core] Found status: AHEAD Current: 1.5.2.22 Target: null
-[12Mar2025 12:07:37.363] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [thermal] Starting version check at https://raw.github.com/cofh/version/master/thermal/update.json
-[12Mar2025 12:07:37.680] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [thermal] Found status: AHEAD Current: 1.5.2.30 Target: null
-[12Mar2025 12:07:42.662] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[12Mar2025 12:07:43.164] [main/INFO] [net.minecraft.server.MinecraftServer/]: Found new data pack file/treasure2, loading it automatically
-[12Mar2025 12:07:43.891] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [cofh, ignite, duration] and [cofh, ignite, targets] with inputs: [0, -123, 123]
-[12Mar2025 12:07:43.894] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [cofh, ignite, targets] and [cofh, ignite, duration] with inputs: [0123]
-[12Mar2025 12:07:43.895] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [cofh, invis, flag] and [cofh, invis, targets] with inputs: [true, false]
-[12Mar2025 12:07:43.897] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [cofh, invuln, flag] and [cofh, invuln, targets] with inputs: [true, false]
-[12Mar2025 12:07:43.929] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [tb, access, pos] and [tb, access, target] with inputs: [0 0 0]
-[12Mar2025 12:07:43.935] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [tb, unpack, pos] and [tb, unpack, target] with inputs: [0 0 0]
-[12Mar2025 12:07:43.954] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12Mar2025 12:07:43.956] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12Mar2025 12:07:43.958] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12Mar2025 12:07:43.961] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12Mar2025 12:07:43.964] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12Mar2025 12:07:43.968] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [waypoint, create, name, dimension, location, color, announce] and [waypoint, create, name, dimension, location, color, player] with inputs: [true, false]
-[12Mar2025 12:07:43.970] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [waypoint, delete, name, announce] and [waypoint, delete, name, player] with inputs: [true, false]
-[12Mar2025 12:07:43.985] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.2.42-universal.jar, TConstruct-1.16.5-3.3.4.335.jar, useful_backpacks-1.16.5-1.12.1.103.jar, SkyVillage_1.0.0_1.16.5.jar, GokiStats-1.16.5-1.3.2.jar, ironfurnaces-1.16.5-2.7.7 (1).jar, Treasure2-mc1.16.5-f36.2.34-v3.1.1 (1).jar, Bountiful Baubles FORGE-1.16.3-0.0.2.jar, jei-1.16.5-7.8.0.1013 (1).jar, libraryferret-forge-1.16.5-4.0.0.jar, goblintraders-1.7.3-1.16.5 (1).jar, curios-forge-1.16.5-4.1.0.0 (1).jar, SpartanShields-1.16.5-2.1.2.jar, Mantle-1.16.5-1.6.157 (1).jar, Waystones_1.16.5-7.6.4 (1).jar, collective-1.16.5-5.49.jar, journeymap-1.16.5-5.8.6 (1).jar, [1.16.5] SecurityCraft v1.9.12.1 (1).jar, TravelersBackpack-1.16.5-5.4.51.jar, Artifacts-1.16.5-2.10.5 (1).jar, jumpboat-1.16.5-0.1.0.2.jar, bettervillage-forge-1.16.5-3.2.0.jar, tombstone-1.16.5-6.9.6 (1).jar, GottschCore-mc1.16.5-f36.2.34-v1.8.0 (1).jar, DungeonCrawl-1.16.5-2.3.12 (1).jar, MutantBeasts-1.16.4-1.1.3 (1).jar, u_team_core-forge-1.16.5-3.2.1.342.jar, mutantmore-1.16.5-1.0.2.jar, lootr-1.16.5-0.2.19.51 (1).jar, mcw-furniture-3.3.0-mc1.16.5forge (1).jar, Hwyla-forge-1.10.11-B78_1.16.2.jar, immersive-armors-1.5.1+1.16.5-forge.jar, byg-1.3.6 (1).jar, VillagersFollowEmeralds-1.16.5-1.0.0.jar, cofh_core-1.16.5-1.5.2.22 (1).jar, thermal_foundation-1.16.5-1.5.2.30 (1).jar, infinitetrading_1.16.5-3.0.jar, Crowns1.16.4-1.16.5 v0.0.5.jar, expandability-2.0.1-forge (1).jar, Disenchanting-forge-1.16.5-1.7.1.jar, CosmeticArmorReworked-1.16.5-v5a.jar, geckolib-forge-1.16.5-3.0.106.jar, ironchest-1.16.5-11.2.21 (1).jar, DungeonsArise-1.16.5-2.1.49-beta (1).jar, chocolate-1.3.0-1.16.4 (2).jar, treasure2
-[12Mar2025 12:07:47.748] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 37 recipes
-[12Mar2025 12:07:50.333] [Worker-Main-5/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2358 advancements
-[12Mar2025 12:07:50.367] [Worker-Main-5/INFO] [Dungeon Crawl/]: Loading data...
-[12Mar2025 12:07:51.423] [Worker-Main-5/INFO] [Dungeon Crawl/]: Done.
-[12Mar2025 12:07:51.451] [Worker-Main-5/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 57 materials in 16.752197 ms
-[12Mar2025 12:07:51.518] [Worker-Main-5/INFO] [slimeknights.tconstruct.library.materials.stats.MaterialStatsManager/]: 128 stats loaded for 67 materials in 66.18743 ms
-[12Mar2025 12:07:51.571] [Worker-Main-5/INFO] [slimeknights.tconstruct.library.materials.traits.MaterialTraitsManager/]: 56 traits loaded for 67 materials in 52.29197 ms
-[12Mar2025 12:07:51.623] [Worker-Main-5/INFO] [slimeknights.tconstruct.library.tools.layout.StationSlotLayoutLoader/]: Loaded 15 station slot layouts in 44.908573 ms
-[12Mar2025 12:07:59.821] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
-[12Mar2025 12:07:59.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[12Mar2025 12:07:59.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[12Mar2025 12:07:59.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[12Mar2025 12:07:59.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[12Mar2025 12:08:00.004] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
-[12Mar2025 12:08:00.140] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[12Mar2025 12:08:00.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[12Mar2025 12:08:02.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[12Mar2025 12:08:03.521] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[12Mar2025 12:08:03.521] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[12Mar2025 12:08:03.522] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[12Mar2025 12:08:03.767] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 11%
-[12Mar2025 12:08:05.868] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
-[12Mar2025 12:08:05.869] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
-[12Mar2025 12:08:05.869] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
-[12Mar2025 12:08:05.869] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
-[12Mar2025 12:08:06.273] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 95%
-[12Mar2025 12:08:06.765] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 95%
-[12Mar2025 12:08:07.317] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 95%
-[12Mar2025 12:08:07.789] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 95%
-[12Mar2025 12:08:08.263] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 96%
-[12Mar2025 12:08:08.762] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 98%
-[12Mar2025 12:08:08.894] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 6633 ms
-[12Mar2025 12:08:08.896] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.775s)! For help, type "help"
-[12Mar2025 12:09:59.858] [User Authenticator #1/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player AcNoone is b31ea3a4-e8bc-4646-a3e8-aca52056db10
-[12Mar2025 12:10:02.888] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2cfc1907
-[12Mar2025 12:10:02.931] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: AcNoone[/100.125.145.82:52651] logged in with entity id 438 at (-227.3003066224658, 68.0, 250.70466371505697)
-[12Mar2025 12:10:02.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AcNoone joined the game
-[12Mar2025 12:10:03.166] [Server thread/INFO] [Waila/]: Syncing config to AcNoone (b31ea3a4-e8bc-4646-a3e8-aca52056db10)
-[12Mar2025 12:10:04.553] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[12Mar2025 12:10:04.563] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[12Mar2025 12:10:04.624] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[12Mar2025 12:10:04.625] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[12Mar2025 12:10:23.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[12Mar2025 12:10:23.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[12Mar2025 12:10:23.269] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: AcNoone lost connection: Server closed
-[12Mar2025 12:10:23.269] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AcNoone left the game
-[12Mar2025 12:10:23.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[12Mar2025 12:10:23.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[12Mar2025 12:10:24.553] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[12Mar2025 12:10:24.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[12Mar2025 12:10:24.554] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12Mar2025 12:10:24.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[12Mar2025 12:10:24.555] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[12Mar2025 12:10:24.592] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[12Mar2025 12:10:24.601] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12Mar2025 12:10:24.601] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12Mar2025 13:45:40.160] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[12Mar2025 13:45:40.166] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 6.9.6 Target: null
+[12Mar2025 13:45:40.166] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gottschcore] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-GottschCore/1.16.5-master/update.json
+[12Mar2025 13:45:40.261] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gottschcore] Found status: UP_TO_DATE Current: 1.8.0 Target: null
+[12Mar2025 13:45:40.262] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
+[12Mar2025 13:45:40.287] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Found status: UP_TO_DATE Current: 3.2.1.342 Target: null
+[12Mar2025 13:45:40.288] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
+[12Mar2025 13:45:40.297] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.3.0 Target: null
+[12Mar2025 13:45:40.297] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[12Mar2025 13:45:40.482] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
+[12Mar2025 13:45:40.482] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cofh_core] Starting version check at https://raw.github.com/cofh/version/master/cofh_core/update.json
+[12Mar2025 13:45:40.841] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cofh_core] Found status: AHEAD Current: 1.5.2.22 Target: null
+[12Mar2025 13:45:40.842] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [thermal] Starting version check at https://raw.github.com/cofh/version/master/thermal/update.json
+[12Mar2025 13:45:41.167] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [thermal] Found status: AHEAD Current: 1.5.2.30 Target: null
+[12Mar2025 13:45:45.914] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12Mar2025 13:45:46.632] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [cofh, ignite, duration] and [cofh, ignite, targets] with inputs: [0, -123, 123]
+[12Mar2025 13:45:46.633] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [cofh, ignite, targets] and [cofh, ignite, duration] with inputs: [0123]
+[12Mar2025 13:45:46.634] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [cofh, invis, flag] and [cofh, invis, targets] with inputs: [true, false]
+[12Mar2025 13:45:46.636] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [cofh, invuln, flag] and [cofh, invuln, targets] with inputs: [true, false]
+[12Mar2025 13:45:46.647] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [tb, access, pos] and [tb, access, target] with inputs: [0 0 0]
+[12Mar2025 13:45:46.650] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [tb, unpack, pos] and [tb, unpack, target] with inputs: [0 0 0]
+[12Mar2025 13:45:46.656] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12Mar2025 13:45:46.657] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12Mar2025 13:45:46.659] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12Mar2025 13:45:46.660] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12Mar2025 13:45:46.663] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12Mar2025 13:45:46.665] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [waypoint, create, name, dimension, location, color, announce] and [waypoint, create, name, dimension, location, color, player] with inputs: [true, false]
+[12Mar2025 13:45:46.667] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [waypoint, delete, name, announce] and [waypoint, delete, name, player] with inputs: [true, false]
+[12Mar2025 13:45:46.678] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.2.42-universal.jar, TConstruct-1.16.5-3.3.4.335.jar, useful_backpacks-1.16.5-1.12.1.103.jar, SkyVillage_1.0.0_1.16.5.jar, GokiStats-1.16.5-1.3.2.jar, ironfurnaces-1.16.5-2.7.7 (1).jar, Treasure2-mc1.16.5-f36.2.34-v3.1.1 (1).jar, Bountiful Baubles FORGE-1.16.3-0.0.2.jar, jei-1.16.5-7.8.0.1013 (1).jar, libraryferret-forge-1.16.5-4.0.0.jar, goblintraders-1.7.3-1.16.5 (1).jar, curios-forge-1.16.5-4.1.0.0 (1).jar, SpartanShields-1.16.5-2.1.2.jar, Mantle-1.16.5-1.6.157 (1).jar, Waystones_1.16.5-7.6.4 (1).jar, collective-1.16.5-5.49.jar, journeymap-1.16.5-5.8.6 (1).jar, [1.16.5] SecurityCraft v1.9.12.1 (1).jar, TravelersBackpack-1.16.5-5.4.51.jar, Artifacts-1.16.5-2.10.5 (1).jar, jumpboat-1.16.5-0.1.0.2.jar, bettervillage-forge-1.16.5-3.2.0.jar, tombstone-1.16.5-6.9.6 (1).jar, GottschCore-mc1.16.5-f36.2.34-v1.8.0 (1).jar, DungeonCrawl-1.16.5-2.3.12 (1).jar, MutantBeasts-1.16.4-1.1.3 (1).jar, u_team_core-forge-1.16.5-3.2.1.342.jar, mutantmore-1.16.5-1.0.2.jar, lootr-1.16.5-0.2.19.51 (1).jar, mcw-furniture-3.3.0-mc1.16.5forge (1).jar, Hwyla-forge-1.10.11-B78_1.16.2.jar, immersive-armors-1.5.1+1.16.5-forge.jar, byg-1.3.6 (1).jar, VillagersFollowEmeralds-1.16.5-1.0.0.jar, cofh_core-1.16.5-1.5.2.22 (1).jar, thermal_foundation-1.16.5-1.5.2.30 (1).jar, infinitetrading_1.16.5-3.0.jar, Crowns1.16.4-1.16.5 v0.0.5.jar, expandability-2.0.1-forge (1).jar, Disenchanting-forge-1.16.5-1.7.1.jar, CosmeticArmorReworked-1.16.5-v5a.jar, geckolib-forge-1.16.5-3.0.106.jar, ironchest-1.16.5-11.2.21 (1).jar, DungeonsArise-1.16.5-2.1.49-beta (1).jar, chocolate-1.3.0-1.16.4 (2).jar, treasure2
+[12Mar2025 13:45:50.854] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 37 recipes
+[12Mar2025 13:45:52.578] [Worker-Main-4/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2358 advancements
+[12Mar2025 13:45:52.622] [Worker-Main-4/INFO] [Dungeon Crawl/]: Loading data...
+[12Mar2025 13:45:53.556] [Worker-Main-4/INFO] [Dungeon Crawl/]: Done.
+[12Mar2025 13:45:53.578] [Worker-Main-4/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 57 materials in 14.19285 ms
+[12Mar2025 13:45:53.651] [Worker-Main-4/INFO] [slimeknights.tconstruct.library.materials.stats.MaterialStatsManager/]: 128 stats loaded for 67 materials in 72.0231 ms
+[12Mar2025 13:45:53.694] [Worker-Main-4/INFO] [slimeknights.tconstruct.library.materials.traits.MaterialTraitsManager/]: 56 traits loaded for 67 materials in 41.79711 ms
+[12Mar2025 13:45:53.719] [Worker-Main-4/INFO] [slimeknights.tconstruct.library.tools.layout.StationSlotLayoutLoader/]: Loaded 15 station slot layouts in 21.606607 ms
+[12Mar2025 13:46:03.596] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[12Mar2025 13:46:03.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[12Mar2025 13:46:03.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[12Mar2025 13:46:03.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[12Mar2025 13:46:04.118] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[12Mar2025 13:46:04.172] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[12Mar2025 13:46:04.315] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12Mar2025 13:46:04.316] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[12Mar2025 13:46:04.316] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12Mar2025 13:46:04.317] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[12Mar2025 13:46:04.363] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[12Mar2025 13:46:04.367] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[12Mar2025 13:46:04.374] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[12Mar2025 13:46:04.498] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[12Mar2025 13:46:07.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[12Mar2025 13:46:08.789] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[12Mar2025 13:46:08.789] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[12Mar2025 13:46:08.790] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[12Mar2025 13:46:09.154] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 1469 ms
+[12Mar2025 13:46:09.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (4.818s)! For help, type "help"
+[12Mar2025 13:46:19.439] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3ca81b6c
+[12Mar2025 13:46:19.480] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Ronditoo[/127.216.194.134:56569] logged in with entity id 323 at (68.54191322129823, 50.0, 370.6449091272931)
+[12Mar2025 13:46:19.514] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo joined the game
+[12Mar2025 13:46:19.662] [Server thread/INFO] [Waila/]: Syncing config to Ronditoo (8b2bc2e9-91be-3ca8-8dc8-7d79f6d8b305)
+[12Mar2025 13:48:22.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo was slain by Magma Cube
+[12Mar2025 13:48:22.256] [Server thread/INFO] [tombstone/]: The player Ronditoo has successfully been saved
+[12Mar2025 13:48:59.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo has reached the goal [Chain Death]
+[12Mar2025 13:48:59.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo was slain by Foundry Guardian
+[12Mar2025 13:48:59.136] [Server thread/INFO] [tombstone/]: The player Ronditoo has successfully been saved
+[12Mar2025 13:49:21.374] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Ronditoo was kicked for floating too long!
+[12Mar2025 13:49:21.376] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Ronditoo lost connection: Flying is not enabled on this server
+[12Mar2025 13:49:21.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo left the game
+[12Mar2025 13:49:21.434] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[12Mar2025 13:49:30.785] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@daa7f36
+[12Mar2025 13:49:30.806] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Ronditoo[/127.216.194.134:43329] logged in with entity id 1513 at (53.05417975937559, 23.839465827524275, 347.92305808411663)
+[12Mar2025 13:49:30.811] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo joined the game
+[12Mar2025 13:49:30.819] [Server thread/INFO] [Waila/]: Syncing config to Ronditoo (8b2bc2e9-91be-3ca8-8dc8-7d79f6d8b305)
+[12Mar2025 13:50:14.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo has made the advancement [Chest Slayer]
+[12Mar2025 13:50:51.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo has made the advancement [Cover Me With Diamonds]
+[12Mar2025 13:52:03.974] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo has made the advancement [Hot Stuff]
+[12Mar2025 13:52:22.676] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo was slain by Magma Cube
+[12Mar2025 13:52:22.678] [Server thread/INFO] [tombstone/]: The player Ronditoo has successfully been saved
+[12Mar2025 13:54:34.676] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo was slain by Magma Cube
+[12Mar2025 13:54:34.679] [Server thread/INFO] [tombstone/]: The player Ronditoo has successfully been saved

@@ -5617,3 +5617,21 @@ java.lang.NullPointerException: null
 [12Mar2025 22:20:22.733] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo has made the advancement [Knowledge raises the soul]
 [12Mar2025 22:20:29.675] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ronditoo> duerme
 [12Mar2025 22:20:31.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ronditoo> sleep
+[12Mar2025 22:24:21.082] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[12Mar2025 22:24:21.088] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[12Mar2025 22:27:12.968] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: varmkiss has made the advancement [Acquire Hardware]
+[12Mar2025 22:27:32.171] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: varmkiss has made the advancement [Isn't It Iron Pick]
+[12Mar2025 22:29:13.179] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (100 | 49 | -940).
+[12Mar2025 22:29:13.181] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[12Mar2025 22:29:13.184] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 5(0) Nodes and 4(0) Rooms
+[12Mar2025 22:29:13.184] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[12Mar2025 22:29:13.184] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 5(0) Nodes and 4(0) Rooms
+[12Mar2025 22:29:13.184] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[12Mar2025 22:29:13.185] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 8(0) Nodes and 4(0) Rooms
+[12Mar2025 22:29:13.185] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[12Mar2025 22:29:13.185] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 6(4) Nodes and 6(0) Rooms
+[12Mar2025 22:29:13.185] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[12Mar2025 22:29:13.185] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 10(0) Nodes and 4(0) Rooms
+[12Mar2025 22:29:13.192] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Created the dungeon layout for [11, -54] with a total of 273 pieces.
+[12Mar2025 22:29:21.169] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[12Mar2025 22:29:21.174] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

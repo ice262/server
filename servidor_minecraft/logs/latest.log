@@ -187,3 +187,25 @@ java.lang.NullPointerException: null
 [12Mar2025 13:52:22.678] [Server thread/INFO] [tombstone/]: The player Ronditoo has successfully been saved
 [12Mar2025 13:54:34.676] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo was slain by Magma Cube
 [12Mar2025 13:54:34.679] [Server thread/INFO] [tombstone/]: The player Ronditoo has successfully been saved
+[12Mar2025 13:57:01.286] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo was slain by Magma Cube
+[12Mar2025 13:57:01.289] [Server thread/INFO] [tombstone/]: The player Ronditoo has successfully been saved
+[12Mar2025 13:57:18.924] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Ronditoo was kicked for floating too long!
+[12Mar2025 13:57:18.976] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Ronditoo lost connection: Flying is not enabled on this server
+[12Mar2025 13:57:18.977] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo left the game
+[12Mar2025 13:57:26.230] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1499e730
+[12Mar2025 13:57:26.250] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Ronditoo[/127.216.194.134:53239] logged in with entity id 3611 at (58.915185615696366, 24.130116973561815, 337.5695553282078)
+[12Mar2025 13:57:26.255] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo joined the game
+[12Mar2025 13:57:26.262] [Server thread/INFO] [Waila/]: Syncing config to Ronditoo (8b2bc2e9-91be-3ca8-8dc8-7d79f6d8b305)
+[12Mar2025 13:58:03.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo was killed by magic whilst trying to escape Forge Sentry
+[12Mar2025 13:58:03.230] [Server thread/INFO] [tombstone/]: The player Ronditoo has successfully been saved
+[12Mar2025 13:58:20.824] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Ronditoo was kicked for floating too long!
+[12Mar2025 13:58:20.874] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Ronditoo lost connection: Flying is not enabled on this server
+[12Mar2025 13:58:20.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo left the game
+[12Mar2025 13:58:29.227] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@55601c3a
+[12Mar2025 13:58:29.241] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Ronditoo[/127.216.194.134:43833] logged in with entity id 4021 at (55.948373562766854, 24.130116973561815, 348.0214739487545)
+[12Mar2025 13:58:29.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo joined the game
+[12Mar2025 13:58:29.251] [Server thread/INFO] [Waila/]: Syncing config to Ronditoo (8b2bc2e9-91be-3ca8-8dc8-7d79f6d8b305)
+[12Mar2025 14:01:17.300] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo has made the advancement [Barrel Booty]
+[12Mar2025 14:02:38.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ronditoo walked into fire whilst fighting Zombie
+[12Mar2025 14:02:38.629] [Server thread/INFO] [tombstone/]: The player Ronditoo has successfully been saved
+[12Mar2025 14:04:16.575] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Ronditoo moved too quickly! -512.0878438328399,61.0,-89.66468169514212
